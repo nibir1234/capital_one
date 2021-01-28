@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T06:35:31.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="PC2AN0CmxK2jwx0PI3tz" version="14.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-28T06:35:47.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="ZiCnycTQxQ0tIA-En675" version="14.2.7" type="github" pages="8">
   <diagram id="FY4AyKYjeqP6JOur4RlP" name="Modules">
     <mxGraphModel dx="1038" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -532,10 +532,10 @@
         <mxCell id="3M4ugLAkJC700N5kWdiq-3" value="PIN" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;gradientColor=none;align=left;" vertex="1" parent="1q15rC51-5HPVuXlqpOX-1">
           <mxGeometry x="240" y="400" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3M4ugLAkJC700N5kWdiq-4" value="&lt;font style=&quot;font-size: 32px&quot; face=&quot;Georgia&quot;&gt;Deposit&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" vertex="1" parent="1q15rC51-5HPVuXlqpOX-1">
-          <mxGeometry x="340" y="90" width="170" height="20" as="geometry" />
+        <mxCell id="3M4ugLAkJC700N5kWdiq-4" value="&lt;font style=&quot;font-size: 32px&quot; face=&quot;Georgia&quot;&gt;Transfer Money&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" vertex="1" parent="1q15rC51-5HPVuXlqpOX-1">
+          <mxGeometry x="305" y="90" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3M4ugLAkJC700N5kWdiq-5" value="Deposit" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;gradientColor=none;" vertex="1" parent="1q15rC51-5HPVuXlqpOX-1">
+        <mxCell id="3M4ugLAkJC700N5kWdiq-5" value="Transfer" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;gradientColor=none;" vertex="1" parent="1q15rC51-5HPVuXlqpOX-1">
           <mxGeometry x="360" y="460" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3M4ugLAkJC700N5kWdiq-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;123155&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;gradientColor=none;align=right;" vertex="1" parent="1q15rC51-5HPVuXlqpOX-1">
