@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T05:15:45.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="LkHxg-_phBTHXrdsx-JZ" version="14.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-28T05:20:14.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="DjiztklcG87s3t1IWFRx" version="14.2.7" type="github" pages="3">
   <diagram id="FY4AyKYjeqP6JOur4RlP" name="Modules">
     <mxGraphModel dx="1038" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
         <mxCell id="MCWdgLO1iPXOzNI1tE2P-37" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Hand Cursor&lt;br&gt;Applied where Clickable&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="MCWdgLO1iPXOzNI1tE2P-1">
           <mxGeometry x="425" y="-760" width="260" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MCWdgLO1iPXOzNI1tE2P-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=3;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="MCWdgLO1iPXOzNI1tE2P-1" source="MCWdgLO1iPXOzNI1tE2P-38" target="MCWdgLO1iPXOzNI1tE2P-35">
+        <mxCell id="MCWdgLO1iPXOzNI1tE2P-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="MCWdgLO1iPXOzNI1tE2P-1" source="MCWdgLO1iPXOzNI1tE2P-38" target="MCWdgLO1iPXOzNI1tE2P-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="-890" />
@@ -162,14 +162,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MCWdgLO1iPXOzNI1tE2P-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MCWdgLO1iPXOzNI1tE2P-1" source="MCWdgLO1iPXOzNI1tE2P-38" target="MCWdgLO1iPXOzNI1tE2P-37">
+        <mxCell id="MCWdgLO1iPXOzNI1tE2P-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="MCWdgLO1iPXOzNI1tE2P-1" source="MCWdgLO1iPXOzNI1tE2P-38" target="MCWdgLO1iPXOzNI1tE2P-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="220" y="-725" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MCWdgLO1iPXOzNI1tE2P-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=3;" edge="1" parent="MCWdgLO1iPXOzNI1tE2P-1" source="MCWdgLO1iPXOzNI1tE2P-38" target="MCWdgLO1iPXOzNI1tE2P-36">
+        <mxCell id="MCWdgLO1iPXOzNI1tE2P-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0000;strokeWidth=1;" edge="1" parent="MCWdgLO1iPXOzNI1tE2P-1" source="MCWdgLO1iPXOzNI1tE2P-38" target="MCWdgLO1iPXOzNI1tE2P-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MCWdgLO1iPXOzNI1tE2P-38" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Micro Interactions&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="MCWdgLO1iPXOzNI1tE2P-1">
@@ -194,7 +194,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ae22o531-B_NpIBhE5pf" name="Auth">
-    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,7 +219,7 @@
         <mxCell id="Li3oyaO3AYFAAMPyQhSw-14" value="&lt;b&gt;Forgot Password?&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="150" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Li3oyaO3AYFAAMPyQhSw-15" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#7f00ff&quot;&gt;5165115&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;gradientColor=#ffffff;align=left;" parent="1" vertex="1">
+        <mxCell id="Li3oyaO3AYFAAMPyQhSw-15" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#7f00ff&quot;&gt;516511&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;gradientColor=#ffffff;align=left;" parent="1" vertex="1">
           <mxGeometry x="480" y="100" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Li3oyaO3AYFAAMPyQhSw-16" value="&lt;font style=&quot;font-size: 30px&quot;&gt;Register&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" parent="1" vertex="1">
