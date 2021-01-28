@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T06:00:04.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="tvscjLM9jGn5dIPgMuFk" version="14.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-28T06:00:35.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="YyuftnuTP0a7EYTW5yKf" version="14.2.7" type="github" pages="3">
   <diagram id="FY4AyKYjeqP6JOur4RlP" name="Modules">
     <mxGraphModel dx="1038" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -255,10 +255,10 @@
         <mxCell id="YYukeZD1mzLlBzNmYKdV-9" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Account No. Auto Generated&lt;/b&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="275" y="-750" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YYukeZD1mzLlBzNmYKdV-10" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Password Recovery&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="YYukeZD1mzLlBzNmYKdV-10" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Password Recovery&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="35" y="-840" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YYukeZD1mzLlBzNmYKdV-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;PIN Change&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="YYukeZD1mzLlBzNmYKdV-11" value="&lt;font style=&quot;font-size: 20px&quot;&gt;PIN Change&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="325" y="-840" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YYukeZD1mzLlBzNmYKdV-12" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Create New Account&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;fillColor=none;" vertex="1" parent="1">
