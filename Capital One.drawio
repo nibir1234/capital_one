@@ -1,4 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T06:44:20.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="sQKdMsvpXVs592-L6lda" version="14.2.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-01-28T06:46:47.452Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36 Edg/88.0.705.50" etag="L0wgM0SCBQg394YABd6H" version="14.2.7" type="github" pages="11">
+  <diagram id="PDf-bIvHseHSoIi6Mntg" name="Timeline">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="CQU0YqCnPNF7BK_fXgDn-0" />
+        <mxCell id="CQU0YqCnPNF7BK_fXgDn-1" parent="CQU0YqCnPNF7BK_fXgDn-0" />
+        <mxCell id="CQU0YqCnPNF7BK_fXgDn-2" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Auth&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" vertex="1" parent="CQU0YqCnPNF7BK_fXgDn-1">
+          <mxGeometry x="70" y="160" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CQU0YqCnPNF7BK_fXgDn-3" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Dashboard + Account Info&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" vertex="1" parent="CQU0YqCnPNF7BK_fXgDn-1">
+          <mxGeometry x="70" y="210" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CQU0YqCnPNF7BK_fXgDn-4" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Deposit + Withdraw + Transfer + Change PIN&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" vertex="1" parent="CQU0YqCnPNF7BK_fXgDn-1">
+          <mxGeometry x="80" y="250" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CQU0YqCnPNF7BK_fXgDn-5" value="&lt;font style=&quot;font-size: 22px&quot;&gt;Transaction History + Wrap UP + MODULES + FEATURES&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;" vertex="1" parent="CQU0YqCnPNF7BK_fXgDn-1">
+          <mxGeometry x="80" y="290" width="610" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="FY4AyKYjeqP6JOur4RlP" name="Modules">
     <mxGraphModel dx="1038" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
