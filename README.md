@@ -1,1 +1,3 @@
 # capital_one
+
+for the deatiled project resources please refer to the archive folder stored in thomasmartin drive...
